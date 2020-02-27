@@ -1,0 +1,93 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    border: solid olive;
+}
+
+.footerParagraph {
+    font-size: 10px;
+    margin-left: auto;
+    margin-right: 12%;
+    margin-bottom: 4%;
+    width: 80%;
+    text-align: center;
+    line-height: 2;
+    margin-top: 1%;
+}
+
+.footerImg {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 1em; */
+}
+
+
+/* .vanessa{
+    position: relative;
+}
+.vanPic{
+    position: absolute;
+    float: left;
+}
+.button{
+    position: absolute;
+    right: 0%; */
+
+
+/* display: block; */
+
+
+/* }
+.vanName{
+    position: absolute;
+    left: 11%;
+    top: 68%;
+}
+.ppp{
+    /* position: absolute; */
+
+
+/* width: 50%; */
+
+
+/* bottom: 0%; */
+
+
+/* display: inline-block;
+    margin-left:30% ;
+}  */
+
+.vanessa {
+    width: 100%;
+    float: left;
+}
+
+.vanPic {
+    display: inline;
+    float: left;
+}
+
+button.button {
+    float: right;
+}
+
+h4.vanName {
+    padding-left: 88px;
+    margin-left: 8px;
+}
+
+p.ppp {
+    padding-left: 94px;
+    height: 45px;
+    width: 500px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.hr {
+    width: 48%;
+    display: inline-block;
+}
