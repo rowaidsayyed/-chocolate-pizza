@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Josefin+Sans|Pacifico|Ubuntu|Yellowtail&display=swap&subset=latin-ext');
+body{
+    margin: auto;
+    width: 80%;
+    border: solid black;
+}
+header{
+    padding: 2% 0;
+    position: relative;
+    width: 100%;
+    margin: auto;
+    /* border-bottom:  solid 16px transparent ; */
+    /* border-image: 12 repeating-linear-gradient(45deg, black, black 0px, transparent 0, transparent 1px, black 0, black 2px, transparent 0, transparent 3px); */
+}
+#borderheader{
+    background-image: url('/img/hr-img.png');
+    height: 15px;
+    margin: 2% 0;
+    width: 100%;
+}
+.sameline{
+    display: inline-block;
+}
+#pHeader{
+    font-size: x-small;
+    width: 141%;
+    font-family: 'Josefin Sans';
+}
+h3{
+    font-size: 36px;
+    font-family: 'Yellowtail';
+    font-weight: bold;
+
+}
+#logomiddle{
+    float: right;
+}
+#logo{
+    float: left;
+    margin: 0 5% 0 0;
+}
+.imagehead{
+    float: right;
+}
+#logoright{
+    position: absolute;
+    right: 0px;
+}
+#logomiddle{
+    position: absolute;
+    right: 5%;
+}
+img{
+    padding: 0px;
+    margin: -1px;
+}
