@@ -13,7 +13,7 @@ header{
     /* border-image: 12 repeating-linear-gradient(45deg, black, black 0px, transparent 0, transparent 1px, black 0, black 2px, transparent 0, transparent 3px); */
 }
 #borderheader{
-    background-image: url('/img/hr-img.png');
+    background-image: url('../img/hr-img.png');
     height: 15px;
     margin: 2% 0;
     width: 100%;
@@ -102,7 +102,7 @@ top:5% */
 
 #back{
     margin-top: 10px;
-    background-image: url(/img/list-bg.png);
+    background-image: url(../img/list-bg.png);
     height: 350px;
     position: relative;
     width: 100%;
